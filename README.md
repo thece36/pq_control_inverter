@@ -15,8 +15,9 @@ Repository also includes all the essential libraries.
 
 Full Documentation of the system @ (site-is-coming-soon)
 
-* Vabc: grid voltages
-  Iabc: currents exiting our system and entering the grid
-  Pref: reference point for active power
-  Qref: reference point fot reactive power
-  VCII: voltage of the DC Bus - Inverters input
+  ( * )
+  - Vabc: grid voltages
+  - Iabc: currents exiting our system and entering the grid
+  - Pref: reference point for active power
+  - Qref: reference point fot reactive power
+  - VCII: voltage of the DC Bus - Inverters input
