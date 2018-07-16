@@ -23,3 +23,5 @@ Full Documentation of the system @ (site-is-coming-soon)
   - VCII: voltage of the DC Bus - Inverters input
 
 CODE IS NOT OPTIMAZED
+
+Full project available upon request
